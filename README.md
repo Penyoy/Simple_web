@@ -17,7 +17,7 @@ Berisi detail siswa seperti nama, motivasi, statistik, dan game favorit.
 
 ### 🔹 Halaman Sosial Media
 Menampilkan tautan sosial media seperti Instagram, YouTube, dan saluran WhatsApp pembuat web.
-![Sosial Media](https://github.com/Penyoy/Simple_web/blob/main/preview3.jpg)
+![Sosial Media](https://github.com/Penyoy/Simple_web/blob/main/Screenshot_2025-10-17-20-12-55-66.jpg)
 
 ---
 
