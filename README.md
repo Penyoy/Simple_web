@@ -13,11 +13,11 @@ Menampilkan daftar siswa lengkap dengan foto profil, nama, dan fitur pencarian d
 
 ### 🔹 Halaman Profil Siswa
 Berisi detail siswa seperti nama, motivasi, statistik, dan game favorit.
-![Profil Siswa](https://github.com/Penyoy/Simple_web/preview2.jpg)
+![Profil Siswa](https://github.com/Penyoy/Simple_web/blob/main/Screenshot_2025-10-17-20-12-28-89.jpg)
 
 ### 🔹 Halaman Sosial Media
 Menampilkan tautan sosial media seperti Instagram, YouTube, dan saluran WhatsApp pembuat web.
-![Sosial Media](https://github.com/Penyoy/Simple_web/preview3.jpg)
+![Sosial Media](https://github.com/Penyoy/Simple_web/blob/main/preview3.jpg)
 
 ---
 
