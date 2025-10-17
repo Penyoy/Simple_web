@@ -9,7 +9,7 @@ Web ini menampilkan **daftar siswa**, **profil pengguna**, serta **statistik int
 
 ### 🔹 Halaman Daftar Siswa
 Menampilkan daftar siswa lengkap dengan foto profil, nama, dan fitur pencarian dinamis.
-![Daftar Siswa](https://github.com/Penyoy/Simple_web/Screenshot_2025-10-17-20-12-07-97.jpg)
+![Daftar Siswa](https://github.com/Penyoy/Simple_web/blob/main/Screenshot_2025-10-17-20-12-07-97.jpg)
 
 ### 🔹 Halaman Profil Siswa
 Berisi detail siswa seperti nama, motivasi, statistik, dan game favorit.
